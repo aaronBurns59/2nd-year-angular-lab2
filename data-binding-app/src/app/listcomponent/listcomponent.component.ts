@@ -6,8 +6,6 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ListcomponentComponent implements OnInit {
 
-
-
   presidents: object[] =
   [{name: "Higgins", term: "2011-"},
    {name: "McAleese", term: "1997-2011"},
